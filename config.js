@@ -59,7 +59,7 @@ const CONFIG = {
     {
       id: '4',
       name: 'Discord',
-      icon: 'discord',
+      icon: 'message-circle',
       link: 'https://discord.com/login',
     },
     {
