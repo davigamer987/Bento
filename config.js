@@ -89,7 +89,7 @@ const CONFIG = {
     firstList: [
       {
         name: 'Youtube Music',
-        link: 'https://music.youtube..com',
+        link: 'https://music.youtube.com',
       },
       {
         name: 'Nostalgia Playlist',
