@@ -54,13 +54,13 @@ const CONFIG = {
       id: '3',
       name: 'GitHub',
       icon: 'github',
-      link: 'https://github.com/aw1cks',
+      link: 'https://github.com/davigamer987',
     },
     {
       id: '4',
-      name: 'GitLab',
-      icon: 'gitlab',
-      link: 'https://gitlab.com/aw1cks',
+      name: 'Discord',
+      icon: 'discord',
+      link: 'https://discord.com/login',
     },
     {
       id: '5',
