@@ -70,9 +70,9 @@ const CONFIG = {
     },
     {
       id: '6',
-      name: 'Phoronix',
-      icon: 'linux',
-      link: 'https://phoronix.com/',
+      name: 'Google Cloud',
+      icon: 'server',
+      link: 'https://cloud.google.com/',
     },
   ],
 
