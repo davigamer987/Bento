@@ -23,14 +23,14 @@ const CONFIG = {
   greetingNight: '💤 Good Night,',
 
   // Weather
-  weatherKey: 'd086ffc6bf6c0917f8370af845d25523',
+  weatherKey: '3465d17feb9ef0f2efaabac0d7ea99cb',
   weatherIcons: 'OneDark', // 'Nord', 'Dark', 'White'
   weatherUnit: 'C', // 'F', 'C'
   language: 'en', // More languages in https://openweathermap.org/current#multi
 
   trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-  defaultLatitude: '52.059311',
-  defaultLongitude: '1.155670',
+  defaultLatitude: '0',
+  defaultLongitude: '0',
 
   // ┌─┐┌─┐┬─┐┌┬┐┌─┐
   // │  ├─┤├┬┘ ││└─┐
@@ -88,26 +88,26 @@ const CONFIG = {
   lists: {
     firstList: [
       {
-        name: 'Phoronix',
-        link: 'https://phoronix.com',
+        name: 'Youtube Music',
+        link: 'https://music.youtube..com',
       },
       {
-        name: 'The Register',
-        link: 'https://theregister.com',
+        name: 'Nostalgia Playlist',
+        link: 'https://music.youtube.com/playlist?list=PLgGa7baMZopRCAW7lETWdtpTv0VPO7zC0',
       },
       {
-        name: 'lobste.rs',
-        link: 'https://lobste.rs',
+        name: 'Netflix',
+        link: 'https://netflix.com',
       },
       {
-        name: 'HN',
-        link: 'https://news.ycombinator.com/',
+        name: 'AnimixPlay',
+        link: 'https://animixplay.to/',
       },
     ],
     secondList: [
       {
-        name: 'Unsplash',
-        link: 'https://unsplash.com/',
+        name: 'r/unixporn',
+        link: 'https://reddit.com/r/unixporn',
       },
       {
         name: 'r/linux',
