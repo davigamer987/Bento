@@ -40,9 +40,9 @@ const CONFIG = {
   cards: [
     {
       id: '1',
-      name: 'DuckDuckGo',
+      name: 'Google',
       icon: 'search',
-      link: 'https://duckduckgo.com/',
+      link: 'https://google.com/',
     },
     {
       id: '2',
