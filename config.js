@@ -92,8 +92,8 @@ const CONFIG = {
         link: 'https://music.youtube.com',
       },
       {
-        name: 'Nostalgia Playlist',
-        link: 'https://music.youtube.com/playlist?list=PLgGa7baMZopRCAW7lETWdtpTv0VPO7zC0',
+        name: 'Boppies Playlist',
+        link: 'https://music.youtube.com/playlist?list=PLgGa7baMZopQ7FNb81CzpwA7GhikR2xY6',
       },
       {
         name: 'Netflix',
