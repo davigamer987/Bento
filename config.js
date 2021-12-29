@@ -122,5 +122,4 @@ const CONFIG = {
         link: 'https://raw.githubusercontent.com/davigamer987/local_manifests/main/TP1803/A12-Lineage.xml',
       },
     ],
-  },
 };
