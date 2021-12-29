@@ -117,6 +117,10 @@ const CONFIG = {
         name: 'GitHub Explore',
         link: 'https://github.com/explore',
       },
+        {
+        name: 'A12 Manifest',
+        link: 'https://raw.githubusercontent.com/davigamer987/local_manifests/main/TP1803/A12-Lineage.xml',
+      },
     ],
   },
 };
