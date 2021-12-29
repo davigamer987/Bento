@@ -42,7 +42,7 @@ const CONFIG = {
       id: '1',
       name: 'Google',
       icon: 'search',
-      link: 'https://google.com/',
+      link: 'https://searx.be/',
     },
     {
       id: '2',
@@ -58,9 +58,9 @@ const CONFIG = {
     },
     {
       id: '4',
-      name: 'Discord',
-      icon: 'send',
-      link: 'https://discord.com/login',
+      name: 'Gmail',
+      icon: 'mail',
+      link: 'https://mail.google.com/mail/u/0/#inbox',
     },
     {
       id: '5',
